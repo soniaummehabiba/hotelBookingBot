@@ -1,5 +1,7 @@
 # hotelBookingBot
 
+google assistant: `Talk to sonia hotel booker`
+
 facebook: @soniahotelbookingbot
 
 skype: https://join.skype.com/bot/47ec83b2-7047-46b1-b57f-7c47e1b490c7
